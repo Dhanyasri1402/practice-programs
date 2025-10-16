@@ -1,0 +1,4 @@
+numbers = [25, 67, 12, 89, 45, 90, 34] 
+ largest = max(numbers) 
+print("The list is:", numbers) 
+print("The largest number in the list is:", largest)
